@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hariocoffee
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning python and SQL
+- 👀 I’m interested in AI/ML
 
 <!---
 hariocoffee/hariocoffee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
